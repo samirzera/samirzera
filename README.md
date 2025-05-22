@@ -10,7 +10,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,html,python,go,java,php,git,vscode,docker,figma,github,linux,mongodb,postgresql,mysql,aws,gcp," />
+  <img src="https://skillicons.dev/icons?i=go,java,javascript,php,python,html,figma,git,vscode,aws,docker,gcp,mongodb,mysql,postgresql,linux,ubuntu,github" />
 </a>
   <br />
 
